@@ -2,5 +2,4 @@ bbb
 aaa
 ccc !
 ddd ?
-eee
-fff
+eee !

@@ -12,3 +12,6 @@ gala
 new
 prova
 
+per
+stash
+
